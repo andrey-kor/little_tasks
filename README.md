@@ -1,0 +1,1 @@
+This is a repository with little interesting tasks from different places.
